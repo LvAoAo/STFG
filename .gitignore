@@ -1,0 +1,5 @@
+# ignore saved global trigger
+Data/
+Results/
+.vscode
+wandb/
